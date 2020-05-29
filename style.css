@@ -38,3 +38,11 @@ nav a {
 .div1 {
   background-color:rgb(26, 23, 23);
 }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
