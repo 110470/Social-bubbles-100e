@@ -5,3 +5,36 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+header {
+  background-color: lightgray;
+  height:125.3141592653598px;
+  
+}
+
+h2 {
+  color: lightgray;
+}
+
+nav a:hover{
+  background-color: purple;
+
+}
+nav a {
+	display:inline-block;
+	border-radius: 0px 0px 0px 0px;
+	border-bottom: 0px solid white;
+	background-color:rgb(26, 23, 23);
+	color:black;
+	text-decoration:none;
+	padding: 10px 10px;
+	position:relative;
+	top:0px;
+	transition: all 500ms ease;
+  cursor:pointer;
+  top:0px;
+  color:white;
+}
+.div1 {
+  background-color:rgb(26, 23, 23);
+}
